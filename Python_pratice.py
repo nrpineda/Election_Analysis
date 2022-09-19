@@ -114,4 +114,15 @@ now = dt.datetime.now()
 print( "The time right now is ", now)
 
 
+# with open(file_to_save, "w") as txt_file:
+#  # Write three counties to the file on a separate line
+#     txt_file.write("Counties in the Election\n-------------------\nArapahoe\nDenver\nJefferson")
+
+#     # # Write three counties to the file.
+#     # txt_file.write("Arapahoe, ")
+#     # txt_file.write("Denver, ")
+#     # txt_file.write("Jefferson")
+#     # We can also write all three counties in one line
+#     # Like this: txt_file.write("Arapahoe, Denver, Jefferson")
+
 
