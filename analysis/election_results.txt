@@ -1,0 +1,11 @@
+
+Elections Results
+----------------------------
+Total Votes: 369,711
+-----------------------------
+Arapahoe:  0.0%(1)
+-------------------------------
+Winner County: Arapahoe
+Winning County Count: 1
+Winning County Percentage: 0.0%
+-------------------------------
