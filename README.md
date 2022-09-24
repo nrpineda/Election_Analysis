@@ -1,10 +1,14 @@
-# Election_Analysis
+# Election-Audit Results
 
 ## Project Overview
 
 In this Module we explore the use of VS Code to execute python files, as well as GitBash and GitHub to push and showcase our data analysis. Furthermore, we worked with Tom and Seth retrieving The data of the results of an Election. The final goal was to obtain the total number of votes casts for each candidate, the percentage of votes each candidate won, the total number of votes for each, and the winner of the Election based on the higher number of votes.
 
 We were able to analyze this data, by learning how to open, import and explore a CSV file (which is a plain text format that separates the data with commas) within  VS COde. While exploring this file, we obtained the name of all the candidates running in this election. With python functions, we learned to do calculations from the data, such as the end results of the election, as well as write python codes that would create other logical operations to find out more about this large data set of information. 
+
+The purpose of this audit was to obtain an overview of the election results for three different counties and in show this dataset in a clear and easy to read format. Eventhough this dataset was extremele large, with the use of VS Code we were able to manipulate the data, navigating through the information and making calculations that otherwise would be extremely time consuming to do so in programs such as Excel. With the Python functions we were able to create outcomes with simple lines of coding that immediately reflected what the election commission wanted to know, the end results and count of the votes from this past election.
+
+
 
 ## Resources
 
@@ -15,8 +19,13 @@ The Software used to perform this analysis were Python 3.7, Visual Studio Code.
 
 The results for this project are the following:
 
-The total number of votes casts in this election are: 369,711
-The name of the candidates running in this election are:
+*The total number of votes casts in this election are: 369,711
+* The counties that were audited in this project are: Jefferson, Denver, and Arapahoe.
+* The results for each county, are: 10.5%, 82.8%, and 6.7% turnout respectively.
+
+Out of all three counties, Denver had the largest turnout with 306,055 votes counted.
+
+*The name of the candidates running in this election are:
   Charles Casper Stockham.
   Diana DeGette
   Raymond Anthony Doane.
