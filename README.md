@@ -19,7 +19,7 @@ The Software used to perform this analysis were Python 3.7, Visual Studio Code.
 
 The results for this project are the following:
 
-*The total number of votes casts in this election are: 369,711
+* The total number of votes casts in this election are: 369,711
 * The counties that were audited in this project are: Jefferson, Denver, and Arapahoe.
 * The results for each county, are: 10.5%, 82.8%, and 6.7% turnout respectively.
 
