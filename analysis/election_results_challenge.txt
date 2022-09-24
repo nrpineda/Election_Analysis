@@ -1,0 +1,18 @@
+
+Elections Results
+----------------------------
+Total Votes: 369,711
+-----------------------------
+Jefferson:  10.5%(38,855)
+Denver:  82.8%(306,055)
+Arapahoe:  6.7%(24,801)
+-------------------------------
+Winner County: Denver
+Winning County Count: 306,055
+Winning County Percentage: 82.8%
+-------------------------------
+-------------------------------
+Winner County: Denver
+Winning County Count: 306,055
+Winning County Percentage: 82.8%
+-------------------------------
